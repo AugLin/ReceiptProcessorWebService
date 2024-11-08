@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Antra\\ReceiptProcessorWebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}|ReceiptProcessorWebService\\ReceiptProcessorWebService.csproj|d:\\antra\\receiptprocessorwebservice\\receiptprocessorwebservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}|ReceiptProcessorWebService\\ReceiptProcessorWebService.csproj|solutionrelative:receiptprocessorwebservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}|ReceiptProcessorWebService\\ReceiptProcessorWebService.csproj|d:\\antra\\receiptprocessorwebservice\\receiptprocessorwebservice\\controllers\\receiptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}|ReceiptProcessorWebService\\ReceiptProcessorWebService.csproj|solutionrelative:receiptprocessorwebservice\\controllers\\receiptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Antra\\ReceiptProcessorWebService\\ReceiptProcessorWebService\\Dockerfile",
+              "RelativeDocumentMoniker": "ReceiptProcessorWebService\\Dockerfile",
+              "ToolTip": "D:\\Antra\\ReceiptProcessorWebService\\ReceiptProcessorWebService\\Dockerfile",
+              "RelativeToolTip": "ReceiptProcessorWebService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T01:27:00.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiptsController.cs",
+              "DocumentMoniker": "D:\\Antra\\ReceiptProcessorWebService\\ReceiptProcessorWebService\\Controllers\\ReceiptsController.cs",
+              "RelativeDocumentMoniker": "ReceiptProcessorWebService\\Controllers\\ReceiptsController.cs",
+              "ToolTip": "D:\\Antra\\ReceiptProcessorWebService\\ReceiptProcessorWebService\\Controllers\\ReceiptsController.cs",
+              "RelativeToolTip": "ReceiptProcessorWebService\\Controllers\\ReceiptsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwFgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:37:02.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zk2sFgZ+zUVRCeq4YxX41FOqscNhEIRPGZJS6Tfc44w=",
+  "Source": "ReceiptProcessorWebService",
+  "BasePath": "_content/ReceiptProcessorWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

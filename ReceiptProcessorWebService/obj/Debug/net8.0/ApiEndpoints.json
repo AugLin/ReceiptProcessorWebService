@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "ReceiptProcessorWebService.Controllers.ReceiptsController",
+    "Method": "GetReceiptPoints",
+    "RelativePath": "api/Receipts/{id}/points",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReceiptProcessorWebService.Controllers.ReceiptsController",
+    "Method": "UploadReceipt",
+    "RelativePath": "api/Receipts/process",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "receipt",
+        "Type": "ApplicationCore.Entities.Receipts",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

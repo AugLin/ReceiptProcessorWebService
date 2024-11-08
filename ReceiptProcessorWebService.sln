@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptProcessorWebService", "ReceiptProcessorWebService\ReceiptProcessorWebService.csproj", "{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E6E83B-A7F9-42C9-99D1-4470B9B1C73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9C667D-5A63-4A9E-A085-E1C29F2A498F}
+	EndGlobalSection
+EndGlobal
